@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["danny8376+gems@gmail.com"]
   spec.description   = %q{An easy smtp eventmachine wrapper for activemailer.}
   spec.summary       = %q{An easy smtp eventmachine wrapper for activemailer.}
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/danny8376/em-smtp"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files`.split($/)
